@@ -1,0 +1,11 @@
+datasource: ''
+ddl-auto: update
+dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+hibernate: ''
+jpa: ''
+password: root
+properties: ''
+show-sql: '''true'''
+spring: ''
+url: jdbc:mysql://sqlDb:3306/Book?createDatabaseIfNotExist=true
+username: root
